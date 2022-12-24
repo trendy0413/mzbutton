@@ -1,4 +1,4 @@
-# Primary Button Component for user interaction by MingZhe
+# Primary Button Component for user interaction
 
 ## Installation
 
